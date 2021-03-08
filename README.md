@@ -1,6 +1,6 @@
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
-Welcome philmurtagh101,
+Welcome philmurtagh101, His effort at a preliminary README is appended to the end and can be found [here](#challenge)
 
 This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
 
@@ -43,3 +43,21 @@ We continually tweak and adjust this template to help give you the best experien
 --------
 
 Happy coding!
+
+--------
+--------
+
+# `Challenge`
+
+### This `challenge` is to demonstrate competence making Readme.md
+
+
+## Description
+This was my first website created on github.com using the editor on gitpod.io.  The resulting website
+can be viewed [here](https://philmurtagh101.github.io/my-full-template/).
+
+
+## Technology
+The website is written  in `HTML5` and `CSS3` using `GitPod` and released to `GitHub`'s web service.
+
+--------
